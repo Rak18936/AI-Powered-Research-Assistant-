@@ -4,7 +4,7 @@ A professional-grade document intelligence pipeline designed to automate scienti
 
 ---
 
-## 🎓 Google Student Researcher Alignment
+## 🎓  Student Researcher Alignment
 
 * **Natural Language Understanding (NLU)**: Automated extraction of research objectives, methodology, and experimental results from unstructured PDFs.
 * **Information Retrieval**: Live integration with academic databases (arXiv API) using custom queries.
